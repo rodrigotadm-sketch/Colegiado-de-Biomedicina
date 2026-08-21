@@ -1,1 +1,1 @@
-Envie index.html, styles.css, app.js e colegiado.json para a mesma pasta no GitHub Pages. Para atualizar membros, edite apenas colegiado.json. Depois incorpore a URL no WordPress via iframe.
+Atualize principalmente colegiado.json. Campos editáveis por membro: nome, cargo, emails, lattes, departamento_unidade ou unidade, mandato e situacao. Mantenha index.html, styles.css e app.js na mesma pasta do JSON.

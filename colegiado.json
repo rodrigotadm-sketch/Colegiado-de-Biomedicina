@@ -7,260 +7,359 @@
       "nome": "Jaqueline Carvalho de Oliveira",
       "emails": [
         "jaqueline.carvalho@ufpr.br"
-      ]
+      ],
+      "lattes": "",
+      "departamento_unidade": "Coordenação do Curso de Biomedicina",
+      "mandato": "",
+      "situacao": "Titular"
     },
     {
       "cargo": "Vice-Coordenadora",
       "nome": "Djanira Aparecida da Luz Veronez",
       "emails": [
         "veronezdal@ufpr.br"
-      ]
+      ],
+      "lattes": "",
+      "departamento_unidade": "Coordenação do Curso de Biomedicina",
+      "mandato": "",
+      "situacao": "Vice"
     }
   ],
   "departamentos": [
-    [
-      "Anatomia",
-      [
-        [
-          "Titular",
-          "Djanira Aparecida da Luz Veronez",
-          [
+    {
+      "departamento": "Anatomia",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Djanira Aparecida da Luz Veronez",
+          "emails": [
             "veronezdal@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Luciane B. Carias de Oliveira",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Luciane B. Carias de Oliveira",
+          "emails": [
             "lucianecarias@gmail.com"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Biologia Celular",
-      [
-        [
-          "Titular",
-          "Katya Naliwaiko",
-          [
+    },
+    {
+      "departamento": "Biologia Celular",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Katya Naliwaiko",
+          "emails": [
             "katya@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Fernanda Fogagnoli Simas",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Fernanda Fogagnoli Simas",
+          "emails": [
             "ferfs@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Bioquímica",
-      [
-        [
-          "Titular",
-          "Diogo R. B. Ducatti",
-          [
+    },
+    {
+      "departamento": "Bioquímica",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Diogo R. B. Ducatti",
+          "emails": [
             "ducatti@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Guilherme Lanzi Sassaki",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Guilherme Lanzi Sassaki",
+          "emails": [
             "sassaki@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Farmacologia",
-      [
-        [
-          "Titular",
-          "Joice Maria da Cunha",
-          [
+    },
+    {
+      "departamento": "Farmacologia",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Joice Maria da Cunha",
+          "emails": [
             "joice.cunha@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Janaina Menezes Zanoveli",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Janaina Menezes Zanoveli",
+          "emails": [
             "janaina.zanoveli@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Fisiologia",
-      [
-        [
-          "Titular",
-          "Luiz Claudio Fernandez",
-          [
+    },
+    {
+      "departamento": "Fisiologia",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Luiz Claudio Fernandez",
+          "emails": [
             "lcfer@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Maira Mello Rezende Valle",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Maira Mello Rezende Valle",
+          "emails": [
             "mairavalle@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Genética",
-      [
-        [
-          "Titular",
-          "Jaqueline Carvalho de Oliveira",
-          [
+    },
+    {
+      "departamento": "Genética",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Jaqueline Carvalho de Oliveira",
+          "emails": [
             "jaqueline.carvalho@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Ricardo Lehtonen R. de Souza",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Ricardo Lehtonen R. de Souza",
+          "emails": [
             "lehtonen@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Patologia Básica",
-      [
-        [
-          "Titular",
-          "Camila Marcon",
-          [
+    },
+    {
+      "departamento": "Patologia Básica",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Camila Marcon",
+          "emails": [
             "marconi@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Débora do Rocio Klisiowicz",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Débora do Rocio Klisiowicz",
+          "emails": [
             "deborak@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Informática",
-      [
-        [
-          "Titular",
-          "Armando Delgado",
-          [
+    },
+    {
+      "departamento": "Informática",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Armando Delgado",
+          "emails": [
             "colcbiomed@inf.ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Carmem Hara",
-          []
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Carmem Hara",
+          "emails": [],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Química",
-      [
-        [
-          "Titular",
-          "Marcio Eduardo Vidotti Miyata",
-          [
+    },
+    {
+      "departamento": "Química",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Marcio Eduardo Vidotti Miyata",
+          "emails": [
             "mvidotti@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Juliete Silva Neves",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Juliete Silva Neves",
+          "emails": [
             "julieteneves@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Zoologia",
-      [
-        [
-          "Titular",
-          "Mario Antonio Navarro da Silva",
-          [
+    },
+    {
+      "departamento": "Zoologia",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Mario Antonio Navarro da Silva",
+          "emails": [
             "mnavarro@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Claudio Jose Barros de Carvalho",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Claudio Jose Barros de Carvalho",
+          "emails": [
             "cjbcarva@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Saúde Comunitária",
-      [
-        [
-          "Titular",
-          "Bianca de Oliveira Cata Preta",
-          [
+    },
+    {
+      "departamento": "Saúde Comunitária",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Bianca de Oliveira Cata Preta",
+          "emails": [
             "bianca.catapreta@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Maria Esther Graf",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Maria Esther Graf",
+          "emails": [
             "mesthergraf@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Análises Clínicas",
-      [
-        [
-          "Titular",
-          "Fabiane Gomes de Moraes Rego",
-          [
+    },
+    {
+      "departamento": "Análises Clínicas",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Fabiane Gomes de Moraes Rego",
+          "emails": [
             "rego@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "Vivian Rotuno Moure Valdameri",
-          [
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "Vivian Rotuno Moure Valdameri",
+          "emails": [
             "vivian.moure@ufpr.br"
-          ]
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ],
-    [
-      "Filosofia",
-      [
-        [
-          "Titular",
-          "Ronei Clecio Mocellin",
-          [
+    },
+    {
+      "departamento": "Filosofia",
+      "unidade": "",
+      "membros": [
+        {
+          "cargo": "Titular",
+          "nome": "Ronei Clecio Mocellin",
+          "emails": [
             "roneimocellin@ufpr.br"
-          ]
-        ],
-        [
-          "Suplente",
-          "",
-          []
-        ]
+          ],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Titular"
+        },
+        {
+          "cargo": "Suplente",
+          "nome": "",
+          "emails": [],
+          "lattes": "",
+          "mandato": "",
+          "situacao": "Suplente"
+        }
       ]
-    ]
+    }
   ],
   "discentes": [
     {
@@ -269,7 +368,11 @@
       "emails": [
         "cabiom.ufpr@gmail.com",
         "keilacaroline@ufpr.br"
-      ]
+      ],
+      "lattes": "",
+      "departamento_unidade": "Representação Discente",
+      "mandato": "",
+      "situacao": "Titular"
     },
     {
       "cargo": "Suplente",
@@ -277,7 +380,11 @@
       "emails": [
         "cabiom.ufpr@gmail.com",
         "sabrinakurscheidt@ufpr.br"
-      ]
+      ],
+      "lattes": "",
+      "departamento_unidade": "Representação Discente",
+      "mandato": "",
+      "situacao": "Suplente"
     }
   ]
 }
