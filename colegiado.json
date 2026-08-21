@@ -1,0 +1,283 @@
+{
+  "title": "COLEGIADO DO CURSO DE BIOMEDICINA",
+  "description": "O órgão colegiado dos cursos de graduação é composto pelos Coordenadores (titular e vice), dois representantes do corpo docente (titular e suplente) por departamentos que ministram aulas para o curso e dois representantes do corpo discente (titular e suplente).",
+  "coordenacao": [
+    {
+      "cargo": "Coordenadora",
+      "nome": "Jaqueline Carvalho de Oliveira",
+      "emails": [
+        "jaqueline.carvalho@ufpr.br"
+      ]
+    },
+    {
+      "cargo": "Vice-Coordenadora",
+      "nome": "Djanira Aparecida da Luz Veronez",
+      "emails": [
+        "veronezdal@ufpr.br"
+      ]
+    }
+  ],
+  "departamentos": [
+    [
+      "Anatomia",
+      [
+        [
+          "Titular",
+          "Djanira Aparecida da Luz Veronez",
+          [
+            "veronezdal@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Luciane B. Carias de Oliveira",
+          [
+            "lucianecarias@gmail.com"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Biologia Celular",
+      [
+        [
+          "Titular",
+          "Katya Naliwaiko",
+          [
+            "katya@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Fernanda Fogagnoli Simas",
+          [
+            "ferfs@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Bioquímica",
+      [
+        [
+          "Titular",
+          "Diogo R. B. Ducatti",
+          [
+            "ducatti@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Guilherme Lanzi Sassaki",
+          [
+            "sassaki@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Farmacologia",
+      [
+        [
+          "Titular",
+          "Joice Maria da Cunha",
+          [
+            "joice.cunha@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Janaina Menezes Zanoveli",
+          [
+            "janaina.zanoveli@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Fisiologia",
+      [
+        [
+          "Titular",
+          "Luiz Claudio Fernandez",
+          [
+            "lcfer@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Maira Mello Rezende Valle",
+          [
+            "mairavalle@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Genética",
+      [
+        [
+          "Titular",
+          "Jaqueline Carvalho de Oliveira",
+          [
+            "jaqueline.carvalho@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Ricardo Lehtonen R. de Souza",
+          [
+            "lehtonen@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Patologia Básica",
+      [
+        [
+          "Titular",
+          "Camila Marcon",
+          [
+            "marconi@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Débora do Rocio Klisiowicz",
+          [
+            "deborak@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Informática",
+      [
+        [
+          "Titular",
+          "Armando Delgado",
+          [
+            "colcbiomed@inf.ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Carmem Hara",
+          []
+        ]
+      ]
+    ],
+    [
+      "Química",
+      [
+        [
+          "Titular",
+          "Marcio Eduardo Vidotti Miyata",
+          [
+            "mvidotti@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Juliete Silva Neves",
+          [
+            "julieteneves@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Zoologia",
+      [
+        [
+          "Titular",
+          "Mario Antonio Navarro da Silva",
+          [
+            "mnavarro@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Claudio Jose Barros de Carvalho",
+          [
+            "cjbcarva@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Saúde Comunitária",
+      [
+        [
+          "Titular",
+          "Bianca de Oliveira Cata Preta",
+          [
+            "bianca.catapreta@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Maria Esther Graf",
+          [
+            "mesthergraf@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Análises Clínicas",
+      [
+        [
+          "Titular",
+          "Fabiane Gomes de Moraes Rego",
+          [
+            "rego@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "Vivian Rotuno Moure Valdameri",
+          [
+            "vivian.moure@ufpr.br"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Filosofia",
+      [
+        [
+          "Titular",
+          "Ronei Clecio Mocellin",
+          [
+            "roneimocellin@ufpr.br"
+          ]
+        ],
+        [
+          "Suplente",
+          "",
+          []
+        ]
+      ]
+    ]
+  ],
+  "discentes": [
+    {
+      "cargo": "Titular",
+      "nome": "Keila Caroline Zimmermann",
+      "emails": [
+        "cabiom.ufpr@gmail.com",
+        "keilacaroline@ufpr.br"
+      ]
+    },
+    {
+      "cargo": "Suplente",
+      "nome": "Sabrina Kurscheidt Silva",
+      "emails": [
+        "cabiom.ufpr@gmail.com",
+        "sabrinakurscheidt@ufpr.br"
+      ]
+    }
+  ]
+}
