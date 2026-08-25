@@ -225,9 +225,9 @@
         {
           "cargo": "Suplente",
           "nome": "Carmem Hara",
-          "emails": [],
-          "lattes": "",
-          "mandato": "",
+          "emails": ["colcbiomed@inf.ufpr.br"],
+          "lattes": "http://lattes.cnpq.br/7273159315758953",
+          "mandato": "2026",
           "situacao": "Suplente"
         }
       ]
@@ -364,10 +364,10 @@
   "discentes": [
     {
       "cargo": "Titular",
-      "nome": "GABRIEL ARRAIS DA SILVA",
+      "nome": "GABRIEL PINHEIRO DOS SANTOS POLI",
       "emails": [
         "cabiom.ufpr@gmail.com",
-        "gabrielarrais@ufpr.br"
+        "pinheiro.gabriel@ufpr.br"
       ],
       "lattes": "",
       "departamento_unidade": "Representação Discente",
