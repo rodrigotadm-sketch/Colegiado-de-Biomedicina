@@ -352,10 +352,12 @@
         },
         {
           "cargo": "Suplente",
-          "nome": "",
-          "emails": [],
-          "lattes": "",
-          "mandato": "",
+          "nome": "Rodrigo Brandão",
+          "emails": [
+            "rodrigobrandao@ufpr.br"
+          ],
+          "lattes": "http://lattes.cnpq.br/0072291019903193",
+          "mandato": "2026",
           "situacao": "Suplente"
         }
       ]
